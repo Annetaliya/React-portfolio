@@ -1,4 +1,3 @@
-import REACT from 'react';
 import { BiSolidQuoteAltLeft, BiSolidQuoteAltRight } from 'react-icons/bi';
 
 function About() {
